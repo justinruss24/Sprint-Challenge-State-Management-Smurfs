@@ -10,6 +10,15 @@ input {
   margin-bottom: 2%;
 }
 
+button {
+  margin: 2%;
+}
+
+button:hover {
+  background-color: blue;
+  color: white;
+}
+
 .smurfs {
   width: 100%;
   display: flex;

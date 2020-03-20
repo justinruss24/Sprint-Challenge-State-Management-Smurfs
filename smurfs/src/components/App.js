@@ -28,7 +28,7 @@ function App(props){
     return (
       <div className="smurfs">
         <div>
-          <h4>New Smurf in Town?</h4>
+          <h3>Welcome, Smurf!</h3>
           <label>
             Name: {''}
             <input
